@@ -1,0 +1,23 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.product-info{
+    padding: 10px;
+}
+#product-name{
+    color: blue;
+    font-weight: 500;
+}
+.regular-btn{
+    background-color:#F0C14B ;
+    width: 172px;
+    height: 28px;
+    border: 1px solid #a88734;
+    border-radius: 5px;
+    cursor: pointer;
+}
